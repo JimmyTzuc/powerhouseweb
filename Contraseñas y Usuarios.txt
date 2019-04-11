@@ -1,0 +1,7 @@
+
+
+Usuario: admin
+Contraseña: *admin*
+
+Usuario: Cajero
+Contraseña: *cajero*

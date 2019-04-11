@@ -1,0 +1,1 @@
+<footer class="main"> &copy; 2016 <strong>POWER HOUSE Gym TBD 5SB</strong></footer>
